@@ -1,0 +1,5 @@
+Hajra,Head of SE department
+Aman,Head of ME department
+Muawwaz Naeem,Head of EE department
+usama,Head of CRP department
+Fizza,Head of CS department
